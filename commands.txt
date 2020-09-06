@@ -1,0 +1,28 @@
+commands Lab 1:
+----------------
+git conig --global user.name "name.."
+
+git config --global user.email "xyz@gmail.com"
+
+git add .
+
+git commit -m " message "
+
+git push -u origin master
+
+
+-------------------
+commands Lab 2:
+---------------
+git init 
+
+git add remote URL
+
+git add .
+
+git commit -m "message"
+
+git push -u origin master
+
+
+---------------------------------
