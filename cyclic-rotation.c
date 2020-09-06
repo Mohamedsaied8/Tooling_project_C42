@@ -15,7 +15,7 @@ struct Results solution(int A[], int N, int K) {
       newArr[a]=result.A[i];
     }
       result.A=newArr;
-   //   free(newArr);
+    free(newArr);
     }
     return result;
 }
